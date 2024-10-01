@@ -1,0 +1,27 @@
+@media (max-width:1400px){
+    .info_box{
+        /* width: 35%; */
+        flex-wrap: wrap;
+        /* align-items: center; */
+        gap: 10px;
+    }
+    .info{
+        margin-top: 20px;
+    }
+    .info_title{
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 18px;
+    }
+    .purple_title{
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 18px;
+    }
+    
+}
+@media (max-width:1050px){
+    .menu{
+        display: block;
+    }
+}
